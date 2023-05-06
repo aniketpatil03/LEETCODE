@@ -1,3 +1,4 @@
+/*
 1512. Number of Good Pairs
 Easy
 3.8K
@@ -26,7 +27,7 @@ Constraints:
 
 1 <= nums.length <= 100
 1 <= nums[i] <= 100
-
+*/
 ///---------- MY SOLUTION CODE
 
 **
